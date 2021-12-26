@@ -1,4 +1,11 @@
-### Hi there, I'm Nick - aka [nlamprian](nlamprian) 👋
+### Hi there, I'm Nick 👋
+
+## I'm a nerd and a technology enthusiast
+
+- :construction_worker: I’m currently working on robotics simulations and DevOps
+- :notebook_with_decorative_cover: In the past, I've worked on topics such as mapping, path planning, and control
+- :octocat: I love open source, and I'm always eager to contribute
+- :seedling: My current research topics involve computer vision
 
 ### Connect with me:
 
@@ -40,20 +47,6 @@ For more blog posts, visit [nlamprian.me](https://nlamprian.me)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nlamprian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<!--
-**nlamprian/nlamprian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 [website]: https://nlamprian.me
 [linkedin]: https://www.linkedin.com/in/nlamprian
