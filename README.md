@@ -37,6 +37,11 @@
 
 ## :book: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [CNC Milling with the Snapmaker A350](https://nlamprian.me/blog/hardware/cnc/2021/02/27/cnc-milling-with-the-snapmaker-a350/)
+- [Visual Servoing in Gazebo](https://nlamprian.me/blog/software/ros/2020/01/27/visual-servoing-in-gazebo/)
+- [Navigate Gazebo Worlds](https://nlamprian.me/blog/software/ros/2019/12/26/navigate-gazebo-worlds/)
+- [Gazebo Virtual Worlds](https://nlamprian.me/blog/software/ros/2019/10/06/gazebo-virtual-worlds/)
+- [ROS Node Transformation](https://nlamprian.me/blog/software/ros/2019/04/20/ros-node-transformation/)
 <!-- BLOG-POST-LIST:END -->
 
 For more blog posts, visit [nlamprian.me](https://nlamprian.me)
