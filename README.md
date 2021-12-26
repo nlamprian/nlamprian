@@ -27,6 +27,13 @@
 
 <br />
 <br />
+
+## :book: Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+For more blog posts, visit [nlamprian.me](https://nlamprian.me)
+
 <br />
 
 [![nlamprian's GitHub stats](https://github-readme-stats.vercel.app/api?username=nlamprian&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
