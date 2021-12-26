@@ -7,6 +7,29 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg" />][facebook]
 
+<br />
+
+### Languages and Tools:
+
+<img align="left" alt="Cplusplus" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5/icons/cplusplus.svg" />
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5/icons/python.svg" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Ubuntu" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5/icons/ubuntu.svg" />
+<img align="left" alt="Bash" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5/icons/gnubash.svg" />
+<img align="left" alt="CMake" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5/icons/cmake.svg" />
+<img align="left" alt="Arduino" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5/icons/arduino.svg" />
+<img align="left" alt="ROS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5/icons/ros.svg" />
+<img align="left" alt="SublimeText" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5/icons/sublimetext.svg" />
+<img align="left" alt="LaTeX" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5/icons/latex.svg" />
+<img align="left" alt="Thingiverse" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5/icons/thingiverse.svg" />
+<img align="left" alt="TrueNAS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5/icons/truenas.svg" />
+<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5/icons/docker.svg" />
+
+<br />
+<br />
+
+<!-- --- -->
+
 <!--
 **nlamprian/nlamprian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
